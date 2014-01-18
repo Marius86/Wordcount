@@ -6,7 +6,6 @@
 //
 //
 
-#include "wordcount.h"
 #include <iostream>
 
 using namespace std;
